@@ -1,4 +1,8 @@
 itest.cit
 dfsdfsdfsdf
 erwe
+<<<<<<< HEAD
 testing for new
+=======
+add new line
+>>>>>>> f1ecab4... new one
